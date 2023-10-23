@@ -1,0 +1,39 @@
+/*
+class1_name, class2_name {
+    attribute1: value;
+    attribute2: value;
+    attribute3: value;
+}
+*/
+@font-face {
+    font-family: Deja;
+    src: url(fonts/DejaVuSerif.ttf);
+}
+
+.elijah{
+    color: magenta;
+}
+
+#nazareno .neil p{
+    color: maroon;
+}
+
+h4, h6{
+    color: pink;
+    font-family: Deja;
+}
+
+td{
+    border: 1px solid black;
+    background-color: crimson;
+
+}
+table, th{
+    border: 5px solid black;
+    background-color: blue;
+
+}
+div {
+    border: 1px solid black;
+
+}
